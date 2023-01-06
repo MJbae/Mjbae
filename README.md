@@ -15,6 +15,12 @@
   </a>&nbsp;&nbsp;
 </p>
 
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=MJbae&show_icons=true&count_private=true&theme=dark" width="300"></a>
+</p>
+
 <p align='center'>
   지식은 인출 중심으로 깊이 있게 학습합니다. <a href='https://studynote.oopy.io/books/17'>독서 정리 - 단위 테스트(블라디미르 코리코프)</a>
 </p>
