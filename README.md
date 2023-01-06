@@ -16,10 +16,11 @@
 </p>
 
 <p align='center'>
-  이슈를 분석하여 원인을 찾고 해결하는 것을 즐깁니다. <a href='https://studynote.oopy.io/trouble-shooting/memory-leak/'>AWS ECS 환경의 메모리 이슈 해결 과정</a>
+  지식은 인출 중심으로 깊이 있게 학습합니다. <a href='https://studynote.oopy.io/books/17'>독서 정리 - 단위 테스트(블라디미르 코리코프)</a>
 </p>
 
 <p align='center'>
-  지식은 인출 중심으로 깊이 있게 학습합니다. <a href='https://studynote.oopy.io/books/17'>독서 정리 - 단위 테스트(블라디미르 코리코프)</a>
+  이슈를 분석하여 원인을 찾고 해결하는 것을 즐깁니다. <a href='https://studynote.oopy.io/trouble-shooting/memory-leak/'>AWS ECS 환경의 메모리 이슈 해결 과정</a>
 </p>
+
 
