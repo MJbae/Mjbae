@@ -20,7 +20,7 @@
 </p>
 
 <p align='center'>
-  지식은 인출 중심으로 깊이 있게 학습합니다. <a href='https://studynote.oopy.io/books/17'>독서 정리 - 단위 테스트(블라디미르 코리코프)</a>
+  지식은 인출 중심으로 깊이 있게 학습합니다. <a href='https://studynote.oopy.io/books/17'>독서 정리 - 단위 테스트</a>
 </p>
 
 <p align='center'>
