@@ -16,10 +16,6 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=MJbae&show_icons=true&count_private=true&theme=dark" width="300"></a>
-</p>
-
-<p align='center'>
   이슈의 분석과 해결을 즐깁니다. <a href='https://studynote.oopy.io/trouble-shooting/memory-leak/'>AWS ECS 환경의 메모리 이슈 해결 과정</a>
 </p>
 
