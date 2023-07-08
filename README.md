@@ -20,5 +20,5 @@
 </p>
 
 <p align='center'>
-  인출을 목표로 지식을 습득합니다. <a href='https://studynote.oopy.io/books/17'>지식 정리 - 단위 테스트(블라디미르 코리코프)</a>
+  인출을 목표로 지식을 습득합니다. <a href='https://studynote.oopy.io/books/15'>지식 정리 - 단위 테스트(블라디미르 코리코프)</a>
 </p>
