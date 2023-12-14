@@ -12,7 +12,7 @@
   </a>&nbsp;&nbsp;
   <a href="https://studynote.oopy.io/">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  </a>
 </p>
 
 <p align='center'>
