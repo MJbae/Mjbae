@@ -16,7 +16,7 @@
 </p>
 
 <p align='center'>
-  이슈의 분석과 해결을 즐깁니다. <a href='https://studynote.oopy.io/trouble-shooting/memory-leak/'>AWS ECS 환경의 메모리 이슈 해결 과정</a>
+  이슈의 분석과 해결을 즐깁니다. <a href='https://studynote.oopy.io/trouble-shooting/memory-leak/'>AWS ECS 환경의 메모리 이슈 해결</a>
 </p>
 
 <p align='center'>
