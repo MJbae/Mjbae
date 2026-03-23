@@ -22,11 +22,3 @@ AI로 팔릴 만한 가치의 콘텐츠를 만드는데 빠져 있습니다.
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />        
   </a>
 </p>
-
-<p align='center'>
-  이슈의 분석과 해결을 즐깁니다. <a href='https://studynote.oopy.io/trouble-shooting/memory-leak/'>AWS ECS 환경의 메모리 이슈 해결</a>
-</p>
-
-<p align='center'>
-  인출을 목표로 지식을 습득합니다. <a href='https://studynote.oopy.io/books/15'>지식 정리 - 단위 테스트(블라디미르 코리코프)</a>
-</p>
