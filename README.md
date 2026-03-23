@@ -32,5 +32,5 @@
 <br/>
 
 <p align="center">
-  <sub>Kakao Group AI Hackathon 1st Place · 4 yrs software engineering · LLM serving & MLOps · Backend</sub>
+  <sub>Kakao Group AI Hackathon 1st Place · 4 yrs software engineering · MLOps & Backend</sub>
 </p>
