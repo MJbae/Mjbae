@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  🎨 <strong>150+ AI-generated emoji sets sold</strong>&nbsp;&nbsp;·&nbsp;&nbsp;📖 <strong>AI-written novel — 20K+ views</strong>&nbsp;&nbsp;·&nbsp;&nbsp;📝 <strong>Signed with content publisher</strong>
+  🎨 <strong>150+ AI-generated emoji sets sold</strong>&nbsp;&nbsp;·&nbsp;&nbsp;📖 <strong>AI-written novel — Signed with content publisher</strong>
 </p>
 
 ---
