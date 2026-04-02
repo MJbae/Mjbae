@@ -3,7 +3,7 @@
   Software Engineer — I design end-to-end pipelines that turn AI output into commercial products.
 </p>
 <p align="center">
-  🎨 <strong>150+ AI-generated emoji sets sold</strong>&nbsp;&nbsp;·&nbsp;&nbsp;📖 <strong>AI-written novel — daily 2,500+ views · signed with publisher</strong>
+ 📖 <strong>AI-written novel — daily 2,500+ views · signed with publisher</strong> &nbsp;&nbsp;·&nbsp;&nbsp; 🎨 <strong>150+ AI-generated emoji sets sold</strong>
 </p>
 
 ---
