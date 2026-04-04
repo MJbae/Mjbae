@@ -35,7 +35,7 @@
 
 <div align="center">
   
-[![Tokscale Stats](https://tokscale.ai/api/embed/MJbae/svg?theme=light&sort=cost)](https://tokscale.ai/u/MJbae)
+[![Tokscale Stats](https://tokscale.ai/api/embed/MJbae/svg?compact=1)](https://tokscale.ai/u/MJbae)
 
 </div>
 
