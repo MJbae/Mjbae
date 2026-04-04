@@ -6,8 +6,6 @@
  📖 <strong>AI-written novel — daily 2,500+ views · signed with publisher</strong> &nbsp;&nbsp;·&nbsp;&nbsp; 🎨 <strong>150+ AI-generated emoji sets sold</strong>
 </p>
 
----
-
 <table align="center">
   <tr>
     <td align="center" width="50">📖</td>
@@ -35,8 +33,6 @@
 </table>
 <br/>
 
----
-
 <div align="center">
   
 [![Tokscale Stats](https://tokscale.ai/api/embed/MJbae/svg?theme=light&sort=cost)](https://tokscale.ai/u/MJbae)
@@ -44,5 +40,5 @@
 </div>
 
 <p align="center">
-  <sub>Kakao Group AI Hackathon 1st Place · 4 yrs software engineering · MLOps & Backend</sub>
+  <sub>Kakao Group AI Hackathon 1st Place · 4 yrs software engineering · Backend & MLOps</sub>
 </p>
