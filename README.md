@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>*Mission: every life, a story that inspires generations.*</em>
+  <em>Mission: every life, a story that inspires generations.</em>
 </p>
 
 <p align="center">
