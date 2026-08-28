@@ -103,7 +103,7 @@
   <a href="https://buymeacoffee.com/mjbae">
     <img
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-      width="200"
+      width="150"
       alt="Buy me a coffee"
     />
   </a>
