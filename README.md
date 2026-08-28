@@ -1,11 +1,13 @@
 <h1 align="center">Manjin Bae</h1>
 
 <p align="center">
-  <strong>Software Engineer building AI systems that turn model output into products people value.</strong>
+  <strong>
+    Software Engineer building AI systems that turn model output into products people value.
+  </strong>
 </p>
 
 <p align="center">
-  <em>Mission: every life, a story that inspires generations.</em>
+  <em>Mission: help every life become a story worth passing on.</em>
 </p>
 
 <p align="center">
@@ -14,7 +16,9 @@
   <a href="https://www.duvridge.com/"><strong>Duvridge ↗</strong></a>
 </p>
 
-<br/>
+<p align="center">
+  <sub>• &nbsp; • &nbsp; •</sub>
+</p>
 
 <div align="center">
   <a href="https://tokscale.ai/u/MJbae">
@@ -29,15 +33,14 @@
 <p align="center">
   <sub>
     🏆 Kakao Group AI Hackathon — 1st Place
-    &nbsp;·&nbsp;
-    4+ years in software engineering
-    &nbsp;·&nbsp;
-    Backend &amp; MLOps
+    <br/>
+    4+ years in software engineering · Backend &amp; MLOps
   </sub>
 </p>
 
-<br/>
-<br/>
+<p align="center">
+  <sub>• &nbsp; • &nbsp; •</sub>
+</p>
 
 <p align="center">
   <strong>
@@ -50,7 +53,7 @@
 
 <p align="center">
   <code>Claude Code Plugin</code>
-  &nbsp;·&nbsp;
+  <br/>
   <code>18 agents</code>
   &nbsp;·&nbsp;
   <code>10 skills</code>
@@ -70,7 +73,7 @@
   <code>design</code>
   →
   <code>create</code>
-  →
+  <br/>
   <code>polish</code>
   →
   <code>rewrite</code>
@@ -78,33 +81,24 @@
 
 <p align="center">
   <sub>
-    📊 2,500+ daily views
-    &nbsp;·&nbsp;
-    1,000+ likes
-    &nbsp;·&nbsp;
-    300+ subscribers
-    &nbsp;·&nbsp;
-    Publishing deal secured
+    📊 2,500+ daily views · 1,000+ likes
+    <br/>
+    300+ subscribers · Publishing deal secured
   </sub>
 </p>
 
-<br/>
-<br/>
+<p align="center">
+  <sub>• &nbsp; • &nbsp; •</sub>
+</p>
 
 <p align="center">
   <strong>Support the next story</strong>
 </p>
 
 <p align="center">
-  If this open-source work helps you, a coffee supports the next experiment and release.
-</p>
-
-<p align="center">
+  If this open-source work helps you,
+  <br/>
   <a href="https://buymeacoffee.com/mjbae">
-    <img
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-      width="100"
-      alt="Buy me a coffee"
-    />
+    support the next experiment and release →
   </a>
 </p>
