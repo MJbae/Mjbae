@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>Current mission: turn every life into a story worth keeping.</em>
+  <em>*Mission: every life, a story that inspires generations.*</em>
 </p>
 
 <p align="center">
