@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.duvridge.com/"><strong>Building Duvridge ↗</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mj-bae">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.duvridge.com/"><strong>Duvridge ↗</strong></a>
 </p>
 
 <br/>
@@ -37,24 +37,63 @@
 </p>
 
 <br/>
-
-## Featured open-source work
-
-### 📖 [Awesome Novel Studio](https://github.com/MJbae/awesome-novel-studio)
-
-`Claude Code Plugin` · `18 agents` · `10 skills` · `v1.1.0`
-
-A production-proven web novel creation system with a 16-axis refinement workflow.
-
-**Pipeline** · `propose` → `design` → `create` → `polish` → `rewrite`
-
-> **Production proof** · 2,500+ daily views · 1,000+ likes · 300+ subscribers · Publishing deal secured
-
 <br/>
 
----
+<p align="center">
+  <strong>
+    📖
+    <a href="https://github.com/MJbae/awesome-novel-studio">
+      Awesome Novel Studio
+    </a>
+  </strong>
+</p>
 
-<h3 align="center">Support the next story</h3>
+<p align="center">
+  <code>Claude Code Plugin</code>
+  &nbsp;·&nbsp;
+  <code>18 agents</code>
+  &nbsp;·&nbsp;
+  <code>10 skills</code>
+  &nbsp;·&nbsp;
+  <code>v1.1.0</code>
+</p>
+
+<p align="center">
+  An open-source, production-proven web novel creation system
+  <br/>
+  built around a 16-axis refinement workflow.
+</p>
+
+<p align="center">
+  <code>propose</code>
+  →
+  <code>design</code>
+  →
+  <code>create</code>
+  →
+  <code>polish</code>
+  →
+  <code>rewrite</code>
+</p>
+
+<p align="center">
+  <sub>
+    📊 2,500+ daily views
+    &nbsp;·&nbsp;
+    1,000+ likes
+    &nbsp;·&nbsp;
+    300+ subscribers
+    &nbsp;·&nbsp;
+    Publishing deal secured
+  </sub>
+</p>
+
+<br/>
+<br/>
+
+<p align="center">
+  <strong>Support the next story</strong>
+</p>
 
 <p align="center">
   If this open-source work helps you, a coffee supports the next experiment and release.
