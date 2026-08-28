@@ -1,44 +1,71 @@
-<h3 align="center">Manjin Bae</h3>
+<h1 align="center">Manjin Bae</h1>
+
 <p align="center">
-  Software Engineer — I design end-to-end pipelines that turn AI output into commercial values
-</p>
-<p align="center">
- 📖 <strong>AI-written novel — signed with publisher</strong> &nbsp;&nbsp;·&nbsp;&nbsp; 🎨 <strong>150+ AI-generated emoji sets sold</strong>
+  <strong>Software Engineer building AI systems that turn model output into products people value.</strong>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50">📖</td>
-    <td>
-      <strong><a href="https://github.com/MJbae/awesome-novel-studio">Awesome Novel Studio</a></strong>&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/Agents-18-orange" alt="18 Agents"/>
-      <img src="https://img.shields.io/badge/Skills-10-green" alt="10 Skills"/>
-      <img src="https://img.shields.io/badge/v1.1.0-brightgreen" alt="Version"/>
-      <br/>
-      End-to-end web novel production system as a <strong>Claude Code Plugin</strong><br/>
-      18 specialist agents × 16-axis polish pipeline: <code>propose → design → create → polish → rewrite</code><br/>
-      <sub>📊 Daily views 2,500+ · Likes 1,000+ · Subscribers 300+ · Publishing deal secured</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50">🎨</td>
-    <td>
-      <strong><a href="https://github.com/MJbae/awesome-emoji-studio">Awesome Emoji Studio</a></strong>&nbsp;&nbsp;
-      <a href="https://awesome-emoji-studio.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-▶-blue" alt="Live Demo"/></a>
-      <br/>
-      One concept → 45 store-ready emojis for 7 platforms (KakaoTalk · LINE · Telegram · OGQ)<br/>
-      Multi-Agent strategy (4 AI personas) → Batch generation → Pure Canvas post-processing → Platform-specific ZIP packaging
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <em>Current mission: turn every life into a story worth keeping.</em>
+</p>
+
+<p align="center">
+  <a href="https://www.duvridge.com/"><strong>Building Duvridge ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mj-bae">LinkedIn</a>
+</p>
+
 <br/>
 
 <div align="center">
-  
-[![Tokscale Stats](https://tokscale.ai/api/embed/MJbae/svg?compact=1)](https://tokscale.ai/u/MJbae)
-
+  <a href="https://tokscale.ai/u/MJbae">
+    <img
+      src="https://tokscale.ai/api/embed/MJbae/svg?compact=1"
+      width="500"
+      alt="Manjin Bae's Tokscale statistics"
+    />
+  </a>
 </div>
 
 <p align="center">
-  <sub>Kakao Group AI Hackathon 1st Place · 4 yrs software engineering · Backend & MLOps</sub>
+  <sub>
+    🏆 Kakao Group AI Hackathon — 1st Place
+    &nbsp;·&nbsp;
+    4+ years in software engineering
+    &nbsp;·&nbsp;
+    Backend &amp; MLOps
+  </sub>
+</p>
+
+<br/>
+
+## Featured open-source work
+
+### 📖 [Awesome Novel Studio](https://github.com/MJbae/awesome-novel-studio)
+
+`Claude Code Plugin` · `18 agents` · `10 skills` · `v1.1.0`
+
+A production-proven web novel creation system with a 16-axis refinement workflow.
+
+**Pipeline** · `propose` → `design` → `create` → `polish` → `rewrite`
+
+> **Production proof** · 2,500+ daily views · 1,000+ likes · 300+ subscribers · Publishing deal secured
+
+<br/>
+
+---
+
+<h3 align="center">Support the next story</h3>
+
+<p align="center">
+  If this open-source work helps you, a coffee supports the next experiment and release.
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/mjbae">
+    <img
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      width="200"
+      alt="Buy me a coffee"
+    />
+  </a>
 </p>
