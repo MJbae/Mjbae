@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mj-bae">LinkedIn</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.duvridge.com/"><strong>Duvridge ↗</strong></a>
+  <a href="https://www.duvridge.com/"><strong>Duvridge</strong></a>
 </p>
 
 <p align="center">
@@ -99,6 +99,6 @@
   If this open-source work helps you,
   <br/>
   <a href="https://buymeacoffee.com/mjbae">
-    support the next experiment and release →
+    support the next experiment and release ↗
   </a>
 </p>
