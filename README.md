@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Mission: help every life become a story worth passing on.</em>
+  <em>Vision: A life, written to last.</em>
 </p>
 
 <p align="center">
